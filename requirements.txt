@@ -1,0 +1,13 @@
+numpy
+pandas
+flask
+request
+jsonify
+render_template
+sklearn
+LogisticRegression
+StandardScaler
+ShuffleSplit
+cross_validate
+train_test_split
+KNeighborsClassifier
